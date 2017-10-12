@@ -1,1 +1,1 @@
-# lazy-cat
+这是一个基于Java的新闻发布系统，前端使用了html和css以及部分的css3,div加css布局，刚开始前端的时候做的。
